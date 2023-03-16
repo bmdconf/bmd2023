@@ -135,7 +135,7 @@ Important Dates
      <div class="col-lg-6">
        <ul>
            <li>Marco Dozza [Chalmers University of Technology]</li>
-           <li>Marco Pezzola [University of Bologna]</li>
+           <li>Marco Pezzola [MUNER, Alma Mater Studiorum – Università di Bologna]</li>
            <li>Matteo Corno [Polytechnic University of Milan]</li>
            <li>Matteo Massaro [University of Padua]</li>
            <li>Mattia Bruschetta [University of Padua]</li>
