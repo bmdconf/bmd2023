@@ -23,6 +23,11 @@ welcome borrel, and access to the rodeo and sponsor exhibits.
    * - Simulator Workshop
      - Free
 
+.. raw:: html
+
+   <a href="https://www.aanmelder.nl/bmddelft2023/subscribe">Register online for the event.</a>
+   <script referrerpolicy="origin" src="https://www.aanmelder.nl/143939/xsembed?auth=YLqPsRmr8kRMFI7V9b05SShJMTQzOTM5ClZFTUJFRFVSTENIRUNLCnAwCnRwMQou"></script>
+
 Travel Awards
 =============
 
