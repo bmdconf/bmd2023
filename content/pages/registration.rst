@@ -4,11 +4,21 @@ Registration
 
 :sortorder: 4
 
-**Registration will open May 1, 2023**
+Register through Aanmelder.nl here:
+
+.. raw:: html
+
+   <p style="text-align: center; font-size: 24px;">
+     <a href="https://www.aanmelder.nl/bmddelft2023">www.aanmelder.nl/bmddelft2023</a>
+   </p>
+
+Fees
+====
 
 Early and normal registration include access to presentations during the three
 conference days, coffee breaks each conference day, one conference dinner, the
-welcome borrel, and access to the rodeo and sponsor exhibits.
+welcome borrel, and access to the rodeo and sponsor exhibits. Tuesday drinks
+are not included.
 
 .. list-table::
    :class: table table-striped
@@ -16,17 +26,14 @@ welcome borrel, and access to the rodeo and sponsor exhibits.
 
    * - Item
      - Fee
-   * - Early Bird Registration
+   * - Early Bird Registration (ends August 15, 2023)
      - €275
    * - Normal Registration
      - €350
    * - Simulator Workshop
      - Free
-
-.. raw:: html
-
-   <a href="https://www.aanmelder.nl/bmddelft2023/subscribe">Register online for the event.</a>
-   <script referrerpolicy="origin" src="https://www.aanmelder.nl/143939/xsembed?auth=YLqPsRmr8kRMFI7V9b05SShJMTQzOTM5ClZFTUJFRFVSTENIRUNLCnAwCnRwMQou"></script>
+   * - Late cancellation (after September 15, 2023)
+     - €50
 
 Travel Awards
 =============
