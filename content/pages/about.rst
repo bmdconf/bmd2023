@@ -68,8 +68,8 @@ Important Dates
      - :strike:`February 28, 2023 [23:59 UTC]`
    * - :strike:`Extended Simulator Workshop Abstract Deadline`
      - :strike:`March 7, 2023 [23:59 UTC]`
-   * - Notification of Acceptance & Registration Open
-     - May 1, 2023
+   * - :strike:`Notification of Acceptance & Registration Open`
+     - :strike:`May 1, 2023`
    * - Revised Abstract Deadline
      - June 30, 2023 [23:59 UTC]
    * - Early Bird Registration Deadline
@@ -140,7 +140,6 @@ Important Dates
            <li>Matteo Massaro [University of Padua]</li>
            <li>Mattia Bruschetta [University of Padua]</li>
            <li>Michael Taylor [Harley Davidson]</li>
-           <li>Mio Suzuki [Trek Bicycle Corporation]</li>
            <li>Mont Hubbard [University of California, Davis]</li>
            <li>Nicolay Ruffo [VI-grade Srl]</li>
            <li>Riender Happee [Delft University of Technology]</li>
