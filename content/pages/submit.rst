@@ -49,8 +49,8 @@ Important Dates
      - :strike:`February 28, 2023 [23:59 UTC]`
    * - :strike:`Extended Simulator Workshop Abstract Deadline`
      - :strike:`March 7, 2023 [23:59 UTC]`
-   * - Notification of Acceptance & Registration Open
-     - May 1, 2023
+   * - :strike:`Notification of Acceptance & Registration Open`
+     - :strike:`May 1, 2023`
    * - Revised Abstract Deadline
      - June 30, 2023 [23:59 UTC]
    * - Early Bird Registration Deadline
@@ -208,15 +208,6 @@ https://github.com/moorepants/bmd-templates/issues
 
 Extended Abstract Templates
 ---------------------------
-
-.. admonition:: Alert
-   :class: alert alert-info
-
-   Templates last updated 2023-02-15 with some small bug fixes (LaTeX) and
-   improved instructions (DOCX/ODT).
-
-   DOCX template was updated on 2023-02-21 to correct the issue with the
-   headers disappearing when content was deleted from the body.
 
 Libre/OpenOffice, Microsoft Word, and LaTeX templates for the conference
 abstracts can be downloaded from these links:
