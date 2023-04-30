@@ -7,7 +7,7 @@ Registration Open
 :authors: Jason K. Moore
 
 Registration is now open! Register by August 15, 2023 to receive the early bird
-discount. See the `registration page`_ for more information or go directly
+discount. See the `registration page`_ for more information or go directly to
 Aanmelder.nl to register:
 
 .. raw:: html
