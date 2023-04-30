@@ -112,7 +112,9 @@ committee reviews, and conference capacity.
 For accepted abstracts, you will be required to revise your abstract based on
 the reviews and submit a final version by June 30, 2023 [23:59 UTC]. The
 revised version will be printed in the book of abstracts as well as published
-in the final conference proceedings alongside the papers.
+in the final conference proceedings alongside the papers. Major content updates
+to the extended abstracts will be rejected, please only apply formatting
+corrections, clarifications, and technical soundness improvements.
 
 Presentations
 =============
