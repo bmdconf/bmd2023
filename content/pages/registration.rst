@@ -38,7 +38,33 @@ are not included.
 Travel Awards
 =============
 
-There will be two travel grants of €1000 each awarded. One will go to a female
-presenter and another to an early career researcher. The candidates must reside
-in a country deemed an emerging economy or non-advanced economy. More details
-will be provided when registration opens.
+We are pleased to announce that two travel grants are available for attendees.
+These grants aim to support accepted abstract authors who can demonstrate
+financial need or are from underrepresented regions. The two awards are:
+
+- General Travel Grant (up to €1000): Open to everyone.
+- FNB Travel Grant (up to €1000): For female or non-binary researchers.
+
+Candidates can apply for these grants if their abstract has been accepted for
+oral or poster presentations at the conference. To apply, please provide the
+following information in a one-page application (maximum 400 words in a PDF
+format):
+
+- Whether you are applying for the "General" or "FNB" grant.
+- Employment Condition (Academic researcher, Student, Independent researcher,
+  Retired researcher, Unemployed, Other - please specify)
+- Country of Residency
+- Motivation Statement to apply for the travel grant (in a maximum of 250
+  words, explain your research interests and how attending the conference will
+  contribute to your academic/professional development. Please also describe
+  how you will contribute to the Bicycle and Motorcycle Dynamics community).
+- Your estimated cost to attend the conference in Euros.
+- Your budget to attend the conference in Euros.
+- Is this the first time you will attend the Bicycle and Motorcycle Dynamics Conference?
+- Provide the title of your co-authored accepted extended abstract.
+
+Please submit your application along with an employment condition proof
+document in a PDF format (e.g., enrollment certificate, retirement letter,
+self-funding statement) to info@bmdconf.org by 23:59 UCT on May 19th. We will
+notify the grant recipients by June 1st if their application is accepted or
+declined.

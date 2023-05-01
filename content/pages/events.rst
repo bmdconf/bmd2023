@@ -72,3 +72,11 @@ Thursday Dinner
 
 We will host a dinner for conference participants the evening of Thursday the
 19th. This dinner will be included with your conference registration fee.
+
+Friday Delft Bicycle and Walk Tour
+==================================
+
+After the conference close midday Friday, attendees can join a bicycling and/or
+walking tour of Delft. The walking tour will give a history of the city and the
+bicycling tour will provide a look into Dutch bicycle transportation design and
+features.
