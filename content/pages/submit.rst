@@ -165,6 +165,9 @@ and papers on the Orvium `conference community page`_.
 How To Submit Via Orvium
 ========================
 
+New Abstract or Paper
+---------------------
+
 1. Download the template below and draft your abstract or paper.
 2. Create an account on Orvium_ (registering via an ORCID account is
    recommended).
@@ -194,6 +197,18 @@ How To Submit Via Orvium
    submission.
 7. When your paper information and ``.odt``, ``.docx``, or ``.zip`` upload is
    finalized, press "Submit".
+
+Revision of Abstract or Paper
+-----------------------------
+
+If you are submitting a revision of your abstract or paper:
+
+1. Log into Orvium.
+2. Select "My Publications" on the left.
+3. Click on the abstract/paper you want to revise.
+4. Click the "Create revision" button on the top right (just below "New
+   Publication").
+5. Follow steps 5-7 above to submit the revision.
 
 `Videos and help for using Orvium are available in the Orvium website
 <https://help.orvium.io/>`_.
