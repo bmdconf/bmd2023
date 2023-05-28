@@ -12,6 +12,8 @@ Register through Aanmelder.nl here:
      <a href="https://www.aanmelder.nl/bmddelft2023">www.aanmelder.nl/bmddelft2023</a>
    </p>
 
+After you have registered and paid, Aanmelder will provide you with an invoice.
+
 Fees
 ====
 
