@@ -12,6 +12,13 @@ BMD 2023 has partnered with `The Social Hub
 conference attendees. If you are an author, the discount code will be sent to
 you via email. Otherwise write to info@bmdconf.org with a request for the code.
 
+.. figure:: https://www.thesocialhub.co/4a7a7c/globalassets/03.-property-pages/delft/00-images/01-landing-page/amp-image-gallery/community-spaces/checkin-lobby-skybluewall-tsh-store-delft-image-gallery-900x600.jpg
+   :align: center
+   :width: 60%
+   :target: https://www.thesocialhub.co/delft/
+
+   `Social Hub Delft <https://www.thesocialhub.co/delft/>`_
+
 Other hotels:
 
 - `Casa Julia <http://www.casajulia.nl/>`_
