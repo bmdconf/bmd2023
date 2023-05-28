@@ -153,4 +153,4 @@ features.
    :align: center
    :width: 60%
 
-   Delft Stadhuis (City Hall)
+   Delft Stadhuis (City Hall), `Marek Slusarczyk <https://commons.wikimedia.org/wiki/File:009_Delft,_Netherlands.jpg>`_, `CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>`_, via Wikimedia Commons
