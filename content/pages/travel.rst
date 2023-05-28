@@ -10,7 +10,7 @@ Accommodation options
 BMD 2023 has partnered with `The Social Hub
 <https://www.thesocialhub.co/delft/>`_ to provide a discounted room rate for
 conference attendees. If you are an author, the discount code will be sent to
-via email otherwise write to info@bmdconf.org with a request for the code.
+you via email. Otherwise write to info@bmdconf.org with a request for the code.
 
 Other hotels:
 
