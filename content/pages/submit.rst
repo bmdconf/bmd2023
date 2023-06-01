@@ -223,6 +223,19 @@ or designs will not be compatible with the Orvium publishing system.
 Please report any issues with the templates at:
 https://github.com/moorepants/bmd-templates/issues
 
+Paper Templates
+---------------
+
+Libre/OpenOffice, Microsoft Word, and LaTeX templates for the conference papers
+can be downloaded from these links:
+
+- `Paper Libre/OpenOffice
+  <https://github.com/moorepants/bmd-templates/releases/download/paper-v1.0/bmd2023p.odt>`_ (.odt)
+- `Paper Microsoft Word
+  <https://github.com/moorepants/bmd-templates/releases/download/paper-v1.0/bmd2023p.docx>`_ (.docx)
+- `Paper LaTeX
+  <https://github.com/moorepants/bmd-templates/releases/download/paper-v1.0/bmd2023p.zip>`_ (.zip)
+
 Extended Abstract Templates
 ---------------------------
 
@@ -236,17 +249,11 @@ abstracts can be downloaded from these links:
 - `Abstract LaTeX
   <https://github.com/moorepants/bmd-templates/releases/download/abstract-v1.2/bmd2023a.zip>`_ (.zip)
 
-Paper Templates
----------------
-
-Libre/OpenOffice, Microsoft Word, and LaTeX templates for the papers will be
-provided after the abstract review process.
-
 Poster Templates
 ----------------
 
 There is no template for the poster, however you should include the BMD
-conference header reported in the abstract template, with the conference name,
+conference header reported in the paper template, with the conference name,
 location and dates. The maximum size of the poster is A0 (841x1189mm).
 
 Workshop Abstract Templates
