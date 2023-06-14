@@ -141,14 +141,15 @@ Friday Delft Bicycle and Walk Tour
 ==================================
 
 | **Location:** Delft City Center
-| **Date:** Friday 19, October 2023, 15:00-18:00h
+| **Date:** Friday 20, October 2023, 14:00-15:30h
 |
 
-After the conference close midday Friday, attendees can join a bicycling and/or
-walking tour of Delft. The walking tour will give a history of the city and the
-bicycling tour will provide a look into Dutch bicycle transportation design and
-features.
+After the conference close midday Friday, we are delighted to offer you the possibility to choose between different tours: a bicycle or a walk tour of Delft.
 
+| **Bicycle tour:** The Netherlands loves bicycles! With experienced guides, you will give a look into the Dutch bicycle transportation design and its features. (50 available slots, bicycles will be provided).
+|
+| **Walk tour:** Alternatively, you can join a walk tour. Local guides will take you through the city center and provide you little background on the history of this beautiful Dutch-style town.
+|
 .. figure:: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/009_Delft%2C_Netherlands.jpg/360px-009_Delft%2C_Netherlands.jpg
    :align: center
    :width: 60%
