@@ -7,7 +7,7 @@ Notification of Acceptance
 :authors: Jason K. Moore
 
 From the largest number of submissions ever, we have accepted 68 extended
-abstracts for 40 oral and 38 poster presentations for this offering of the
+abstracts for 40 oral and 28 poster presentations for this offering of the
 Bicycle and Motorcycle Dynamics conference. Authors have submitted from 17
 different countries (Austria, Canada, Chile, Columbia, France, Germany,
 Hungary, India, Italy, Japan, Spain, Sweden, Switzerland, Thailand, The
