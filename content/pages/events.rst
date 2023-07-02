@@ -144,10 +144,11 @@ Friday Delft Bicycle and Walk Tour
 | **Date:** Friday 19, October 2023, 15:00-18:00h
 |
 
-After the conference close midday Friday, attendees can join a bicycling and/or
-walking tour of Delft. The walking tour will give a history of the city and the
-bicycling tour will provide a look into Dutch bicycle transportation design and
-features.
+As a participant in BMD 2023, we are delighted to offer you the possibility to choose between different tours: a bicycle or a walking tour of Delft. 
+The Netherlands loves bicycles! With experienced guides, you will give a look into the Dutch bicycle transportation design and its features. (50 slots available, bicycles will be provided).
+
+
+Alternatively, you can join a walking tour. Local guides will take you through the city center and provide you valuable insight on this beautiful Dutch-style town (60 slots available).
 
 .. figure:: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/009_Delft%2C_Netherlands.jpg/360px-009_Delft%2C_Netherlands.jpg
    :align: center
