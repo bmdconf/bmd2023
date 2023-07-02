@@ -5,7 +5,7 @@ Program
 :sortorder: 1
 
 Below you will find the full conference program with all oral and poster
-presentation times as well as event times. Final locations and complete detials
+presentation times as well as event times. Final locations and complete details
 will be added before October.
 
 .. raw:: html
