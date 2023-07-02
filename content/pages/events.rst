@@ -141,7 +141,7 @@ Friday Delft Bicycle and Walk Tour
 ==================================
 
 | **Location:** Delft City Center
-| **Date:** Friday 19, October 2023, 15:00-18:00h
+| **Date:** Friday 20, October 2023, 15:00-16:30h
 |
 
 After the conference close midday Friday, attendees can join a bicycling and/or
