@@ -3,6 +3,7 @@ Travel & Accomodation
 =====================
 
 :title: Travel & Accomodation
+:sortorder: 7
 
 Accommodation options
 =====================

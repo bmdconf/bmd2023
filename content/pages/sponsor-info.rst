@@ -2,7 +2,7 @@
 Sponsor Information
 ===================
 
-:sortorder: 2
+:sortorder: 5
 
 The Bicycle and Motorcycle Dynamics symposium is the premier international
 venue for researchers into the stability, handling, and control of narrow-track

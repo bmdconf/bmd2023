@@ -2,7 +2,7 @@
 Registration
 ============
 
-:sortorder: 4
+:sortorder: 3
 
 Register through Aanmelder.nl here:
 

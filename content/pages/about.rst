@@ -70,8 +70,8 @@ Important Dates
      - :strike:`March 7, 2023 [23:59 UTC]`
    * - :strike:`Notification of Acceptance & Registration Open`
      - :strike:`May 1, 2023`
-   * - Revised Abstract Deadline
-     - June 30, 2023 [23:59 UTC]
+   * - :strike:`Revised Abstract Deadline`
+     - :strike:`June 30, 2023 [23:59 UTC]`
    * - Early Bird Registration Deadline
      - August 15, 2023 [23:59 UTC]
    * - Paper Deadline

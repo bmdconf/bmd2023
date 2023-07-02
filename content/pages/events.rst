@@ -2,7 +2,7 @@
 Events
 ======
 
-:sortorder: 3
+:sortorder: 2
 
 .. contents:: Table of Contents
    :local:
