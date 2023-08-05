@@ -157,6 +157,9 @@ Important Dates
 Sponsors
 ========
 
+Institutional
+-------------
+
 .. list-table::
    :class: borderless
    :align: center
@@ -170,6 +173,20 @@ Sponsors
           :target: https://www.tudelft.nl/library/actuele-themas/open-publishing
 
 .. _BioMechanical Engineering Department: https://www.tudelft.nl/en/3me/about/departments/biomechanical-engineering
+
+Silver
+------
+
+.. list-table::
+   :class: borderless
+   :align: center
+   :width: 100%
+
+   * - .. image:: https://objects-us-east-1.dream.io/mechmotum/logo-dynamotion.jpg
+          :width: 100%
+          :target: https://www.dynamotion.it/
+     -
+
 .. _Delft University of Technology: https://www.tudelft.nl
 .. _Jason K. Moore: https://www.moorepants.info
 
