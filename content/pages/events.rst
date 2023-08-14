@@ -109,7 +109,7 @@ conference registration fee.**
 Wednesday Bike Rodeo and Borrel
 ===============================
 
-| **Location:** Delft, TBA
+| **Location:** TU Delft X Cafe and Patio
 | **Date:** Wednesday 18, October 2023, 18:00-20:00h
 |
 
@@ -144,11 +144,16 @@ Friday Delft Bicycle and Walk Tour
 | **Date:** Friday 20, October 2023, 15:00-16:30h
 |
 
-As a participant in BMD 2023, we are delighted to offer you the possibility to choose between different tours: a bicycle or a walking tour of Delft. 
-The Netherlands loves bicycles! With experienced guides, you will give a look into the Dutch bicycle transportation design and its features. (50 slots available, bicycles will be provided).
+As a participant in BMD 2023, we are delighted to offer you the possibility to
+choose between different tours: a bicycle or a walking tour of Delft.
 
+The Netherlands loves bicycles! With experienced guides, you will give a look
+into the Dutch bicycle transportation design and its features. (50 slots
+available, bicycles will be provided).
 
-Alternatively, you can join a walking tour. Local guides will take you through the city center and provide you valuable insight on this beautiful Dutch-style town (60 slots available).
+Alternatively, you can join a walking tour. Local guides will take you through
+the city center and provide you valuable insight on this beautiful Dutch-style
+town (60 slots available).
 
 .. figure:: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/009_Delft%2C_Netherlands.jpg/360px-009_Delft%2C_Netherlands.jpg
    :align: center

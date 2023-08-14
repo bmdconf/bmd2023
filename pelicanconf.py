@@ -79,7 +79,7 @@ THEME_CSS_OVERRIDES = ['theme/css/origtheme.css']
 REPO_URL = SOURCEURL
 # TODO : Fix the template so that if this isn't declared it still builds.
 EXCLUDED_CATEGORIES = []
-TWITTER_USERNAME = "BMD2023"
+#TWITTER_USERNAME = "BMD2023"
 
 #GOOGLE_ANALYTICS = ''
 #DISQUS_SITENAME = ''
