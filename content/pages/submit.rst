@@ -53,8 +53,8 @@ Important Dates
      - :strike:`May 1, 2023`
    * - :strike:`Revised Abstract Deadline`
      - :strike:`June 30, 2023 [23:59 UTC]`
-   * - Early Bird Registration Deadline
-     - August 15, 2023 [23:59 UTC]
+   * - :strike:`Early Bird Registration Deadline`
+     - :strike:`August 15, 2023 [23:59 UTC]`
    * - Paper Deadline
      - September 15, 2023 [23:59 UTC]
    * - Paper peer review deadline
