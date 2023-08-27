@@ -34,17 +34,16 @@ as accompanying rooms.
 
    Foyer bar.
 
-The map pin below shows the exact location in X where the primary conference
-events occur:
+The map pin below shows the entrance to the X building, where the primary
+conference events occur:
 
 .. raw:: html
 
    <center>
-   <iframe width="425" height="350" frameborder="0" scrolling="no"
-   marginheight="0" marginwidth="0"
-   src="https://www.openstreetmap.org/export/embed.html?bbox=4.373958706855775%2C51.99410169489909%2C4.380154609680177%2C51.996199114696886&amp;layer=mapnik&amp;marker=51.99515041708008%2C4.377056658267975"
+   <iframe width="425" height="350"
+   src="https://www.openstreetmap.org/export/embed.html?bbox=4.374393224716187%2C51.99458229346739%2C4.378872513771058%2C51.996040573011214&amp;layer=mapnik&amp;marker=51.99531143917657%2C4.376632869243622"
    style="border: 1px solid black"></iframe><br/><small><a
-   href="https://www.openstreetmap.org/?mlat=51.99515&amp;mlon=4.37706#map=19/51.99515/4.37706">View
+   href="https://www.openstreetmap.org/?mlat=51.99531&amp;mlon=4.37663#map=19/51.99531/4.37663">View
    Larger Map</a></small>
    </center>
 
@@ -53,13 +52,13 @@ Tuesday Simulator Workshop
 
 | **Title:** 2-wheeler simulators – lessons learned in training and research
 | **Organizers:** Riender Happee & Linda van der Spaa (TU Delft), Tim Reuscher (RWTH Aachen)
-| **Location:** Delft University of Technology; building and room TBA
+| **Location:** IDE-Hall T (Joost van der Grinten), Building 32 Room A-1-020, Delft University of Technology
 | **Date:** Tuesday 17, October 2023, 13:00-17:00h, prior to the BMD conference
 |
 
 .. figure:: https://objects-us-east-1.dream.io/mechmotum/lunteren-stassen-bicycle-simulator.png
    :align: center
-   :width: 80%
+   :width: 60%
 
    Van Lunteren and Stassen's 1967 TU Delft Bicycle Simulator.
 
@@ -94,17 +93,48 @@ Abstracts for the workshop can be submitted to Linda van der Spaa by email
 (L.F.vanderSpaa@tudelft.nl) before March 7, 2023 (extended from February 28,
 2023).
 
+.. raw:: html
+
+   <center>
+   <iframe width="425" height="350"
+   src="https://www.openstreetmap.org/export/embed.html?bbox=4.368296563625337%2C52.00094519642011%2C4.371837079524995%2C52.00240326871032&amp;layer=mapnik&amp;marker=52.00167341286663%2C4.370066821575165"
+   style="border: 1px solid black"></iframe><br/><small><a
+   href="https://www.openstreetmap.org/?mlat=52.00167&amp;mlon=4.37007#map=19/52.00167/4.37007">View
+   Larger Map</a></small>
+   </center>
+
 Tuesday Drinks
 ==============
 
-| **Location:** Delft, TBA
-| **Date:** Tuesday 17, October 2023, 17:30-19:30h
+| **Location:** Bierfabriek Delft, Burgwal 45-49, 2611 GC Delft
+| **Date:** Tuesday 17, October 2023, 17:30-20:30h
 |
 
-We will organize an informal meetup for drinks for workshop attendees, early
-arrivers, and locals to start at 17:30 on Tuesday, October 17, 2023 (evening
-before the start of the conference). **This will not be covered by your
+We will have an informal meetup for workshop attendees, early arrivers, and
+locals to start at 17:30 on Tuesday, October 17, 2023 (evening before the start
+of the conference) at the `Bierfabriek Delft`_. Drinks and food will be
+available for individual purchase in the reserved back area of the
+establishment. **The cost of drinks and food will not be covered by your
 conference registration fee.**
+
+.. figure:: https://objects-us-east-1.dream.io/mechmotum/bierfabriek-delft.jpg
+   :align: center
+
+   Bierfabriek Delft
+   Burgwal 45-49
+   2611 GG Delft
+
+.. raw:: html
+
+   <center>
+   <iframe width="425" height="350"
+   src="https://www.openstreetmap.org/export/embed.html?bbox=4.359429180622102%2C52.01056792603119%2C4.363908469676972%2C52.012025684853946&amp;layer=mapnik&amp;marker=52.011296811379%2C4.361668825149536"
+   style="border: 1px solid black"></iframe><br/><small><a
+   href="https://www.openstreetmap.org/?mlat=52.01130&amp;mlon=4.36167#map=19/52.01130/4.36167">View
+   Larger Map</a></small>
+   </center>
+
+.. _Bierfabriek Delft: https://www.bierfabriek.com/delft/
 
 Wednesday Bike Rodeo and Borrel
 ===============================
@@ -127,6 +157,16 @@ the rodeo for people to test ride, send an email to sponsorships@bmdconf.org.
 The borrel and rodeo will be included as part of your conference registration
 fee.
 
+.. raw:: html
+
+   <center>
+   <iframe width="425" height="350"
+   src="https://www.openstreetmap.org/export/embed.html?bbox=4.373470544815064%2C51.99449311061773%2C4.377949833869935%2C51.99595139306632&amp;layer=mapnik&amp;marker=51.99522225777928%2C4.375710189342499"
+   style="border: 1px solid black"></iframe><br/><small><a
+   href="https://www.openstreetmap.org/?mlat=51.99522&amp;mlon=4.37571#map=19/51.99522/4.37571">View
+   Larger Map</a></small>
+   </center>
+
 Thursday Dinner
 ===============
 
@@ -140,7 +180,7 @@ We will host a dinner for conference participants the evening of Thursday the
 Friday Delft Bicycle and Walk Tour
 ==================================
 
-| **Location:** Delft City Center
+| **Location:** Delft Market Square (De Markt)
 | **Date:** Friday 20, October 2023, 15:00-16:30h
 |
 
@@ -159,4 +199,14 @@ town (60 slots available).
    :align: center
    :width: 60%
 
-   Delft Stadhuis (City Hall), `Marek Slusarczyk <https://commons.wikimedia.org/wiki/File:009_Delft,_Netherlands.jpg>`_, `CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>`_, via Wikimedia Commons
+   Delft Stadhuis (City Hall), `Marek Slusarczyk
+   <https://commons.wikimedia.org/wiki/File:009_Delft,_Netherlands.jpg>`_, `CC
+   BY 3.0 <https://creativecommons.org/licenses/by/3.0>`_, via Wikimedia
+   Commons
+
+.. raw:: html
+
+   <center>
+   <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=4.356945455074311%2C52.01096580149787%2C4.361424744129182%2C52.012423547358665&amp;layer=mapnik&amp;marker=52.01169550581535%2C4.359185099601746" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.01170&amp;mlon=4.35919#map=19/52.01169/4.35919">View Larger Map</a></small>
+   </center>
+
