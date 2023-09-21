@@ -170,12 +170,26 @@ fee.
 Thursday Dinner
 ===============
 
-| **Location:** Deflt, TBA
-| **Date:** Thursday 19, October 2023, 18:00-20:00h
+| **Location:** Restaurant De Waag Delft, Markt 11
+| **Date:** Thursday 19, October 2023, 18:00-21:00h
 |
 
 We will host a dinner for conference participants the evening of Thursday the
-19th. This dinner will be included with your conference registration fee.
+19th at `Eetcafé & Restaurant De Waag <https://www.de-waag.nl/>`_ in the Delft
+city center. This dinner will be included with your conference registration
+fee.
+
+.. figure:: https://objects-us-east-1.dream.io/mechmotum/de-waag.jpg
+   :align: center
+   :width: 80%
+
+   Front facade of De Waag on the Markt.
+
+.. raw:: html
+
+   <center>
+   <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=4.355754554271699%2C52.010482076918755%2C4.3602338433265695%2C52.01198441260736&amp;layer=mapnik&amp;marker=52.011233251068084%2C4.357994198799133" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.01123&amp;mlon=4.35799#map=19/52.01123/4.35799">View Larger Map</a></small>
+   </center>
 
 Friday Delft Bicycle and Walk Tour
 ==================================
