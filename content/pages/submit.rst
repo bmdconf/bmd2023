@@ -55,8 +55,8 @@ Important Dates
      - :strike:`June 30, 2023 [23:59 UTC]`
    * - :strike:`Early Bird Registration Deadline`
      - :strike:`August 15, 2023 [23:59 UTC]`
-   * - Paper Deadline
-     - September 15, 2023 [23:59 UTC]
+   * - :strike:`Paper Deadline`
+     - :strike:`September 15, 2023 [23:59 UTC]`
    * - Paper peer review deadline
      - TBA (after the conference)
    * - Final peer review revision deadline
