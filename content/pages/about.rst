@@ -187,6 +187,19 @@ Silver
           :target: https://www.dynamotion.it/
      -
 
+Bronze
+------
+
+.. list-table::
+   :class: borderless
+   :align: center
+   :width: 100%
+
+   * - .. image:: https://objects-us-east-1.dream.io/mechmotum/logo-cycle-scientific.jpg
+          :width: 100%
+          :target: https://www.linkedin.com/company/cycle-scientific-llc
+     -
+
 .. _Delft University of Technology: https://www.tudelft.nl
 .. _Jason K. Moore: https://www.moorepants.info
 
