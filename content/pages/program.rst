@@ -4,6 +4,28 @@ Program
 
 :sortorder: 1
 
+Oral Presentation Instructions
+==============================
+
+- A laptop with MS Windows, USB port, MS Powerpoint, and a PDF reader with a
+  clicker/pointer will be available to load your presentation on.
+- You may use your own laptop with the HDMI connection (Type A, Standard).
+- Presentations are strictly limited to 15 minutes with 5 minutes for Q&A and
+  changing to the next presenter.
+
+Poster Presentation Instructions
+================================
+
+- The maximum size of a poster is A0.
+- Your poster should be hung in Dance Hall A or Dance Hall B on your labeled
+  location.
+- Poster stands with attachment items are available. Stiff and flexible posters
+  will be supported by the stands.
+- Your poster can be hung for the duration of the conference.
+- You may stand by your poster at all poster sessions but are only required to
+  do so during your designated poster session.
+- We do not print your poster for you, nor do we facilitate that.
+
 Below you will find the full conference program with all oral and poster
 presentation times as well as event times. Final locations and complete details
 will be added before October.
