@@ -20,7 +20,8 @@ Fees
 Early and normal registration include access to presentations during the three
 conference days, coffee breaks each conference day, one conference dinner, the
 welcome borrel, and access to the rodeo and sponsor exhibits. Tuesday drinks
-are not included.
+are not included. Registrations after October 5th, 2023 will not include the
+dinner.
 
 .. list-table::
    :class: table table-striped
