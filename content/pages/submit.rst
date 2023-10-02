@@ -274,6 +274,16 @@ filled sheet per review on Orvium. You can use odt or docx.
 - `Abstract Review Sheet Microsoft Word
   <https://github.com/moorepants/bmd-templates/releases/download/abstract-review-v1.0/bmd2023ar.docx>`_ (.docx)
 
+Logo
+----
+
+Download an SVG of the BMD 2023 logo:
+
+.. image:: https://objects-us-east-1.dream.io/mechmotum/bmd-2023-logo.svg
+   :target: https://objects-us-east-1.dream.io/mechmotum/bmd-2023-logo.svg
+   :align: center
+   :width: 50%
+
 Awards
 ======
 
