@@ -207,7 +207,7 @@ The Netherlands loves bicycles! With experienced guides, you will have a look
 into the Dutch bicycle transportation design and its features. (50 slots
 available, bicycles will be provided).
 
-| **Bicycle Starting point:** X (building 37)
+| **Bicycle Starting point:** X (Building 37)
 | **End point:** `Delft train station <https://maps.app.goo.gl/gGKELSVJAei4LGWCA>`_
 | **Time:** 15:00-16:45h
 |
@@ -227,7 +227,7 @@ the city center and provide you with valuable insight into this beautiful
 Dutch-style town (60 slots available). We will walk together from the
 conference venue to the starting point.
 
-| **Walk Starting point:** TU Delft Faculty of Architecture & the Built Environment
+| **Walk Starting point:** TU Delft Faculty of Architecture & the Built Environment (Building 8)
 | **End point:** `Delft train station <https://maps.app.goo.gl/gGKELSVJAei4LGWCA>`_
 | **Time:** 15:30-17:00h
 |
