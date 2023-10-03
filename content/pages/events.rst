@@ -194,20 +194,29 @@ fee.
 Friday Delft Bicycle and Walk Tour
 ==================================
 
-| **Location:** Delft Market Square (De Markt)
-| **Date:** Friday 20, October 2023, 15:00-16:30h
+| **Date:** Friday 20, October 2023, 15:00-17:00h
 |
 
 As a participant in BMD 2023, we are delighted to offer you the possibility to
 choose between different tours: a bicycle or a walking tour of Delft.
 
-The Netherlands loves bicycles! With experienced guides, you will give a look
+The Netherlands loves bicycles! With experienced guides, you will have a look
 into the Dutch bicycle transportation design and its features. (50 slots
-available, bicycles will be provided).
+available, bicycles will be provided).  
+
+| **Starting point:** `X (building 37) <https://www.tudelft.nl/en/x/>`_
+| **End point:** `Delft train station <https://maps.app.goo.gl/gGKELSVJAei4LGWCA>`_
+| **Time:** 15:00-16:45h
+_____________________________________________________
 
 Alternatively, you can join a walking tour. Local guides will take you through
-the city center and provide you valuable insight on this beautiful Dutch-style
-town (60 slots available).
+the city center and provide you with valuable insight into this beautiful Dutch-style
+town (60 slots available). We will walk together from the conference venue to the starting point.
+
+| **Starting point:** `TU Delft Faculty of Architecture & the Built Environment <https://maps.app.goo.gl/4PcjoMf4zzrnhuvH8>`_
+| **End point:** `Delft train station <https://maps.app.goo.gl/gGKELSVJAei4LGWCA>`_
+| **Time:** 15:30-17:00h  
+|
 
 .. figure:: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/009_Delft%2C_Netherlands.jpg/360px-009_Delft%2C_Netherlands.jpg
    :align: center
