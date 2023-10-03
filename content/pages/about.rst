@@ -200,7 +200,9 @@ Bronze
    * - .. image:: https://objects-us-east-1.dream.io/mechmotum/logo-cycle-scientific.jpg
           :width: 100%
           :target: https://www.linkedin.com/company/cycle-scientific-llc
-     -
+     - .. image:: https://objects-us-east-1.dream.io/mechmotum/logo-uwm-bike-lab.jpg
+          :width: 100%
+          :target: https://sites.uwm.edu/bike-motorcycle-lab
 
 .. _Delft University of Technology: https://www.tudelft.nl
 .. _Jason K. Moore: https://www.moorepants.info
