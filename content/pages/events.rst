@@ -198,38 +198,42 @@ Friday Delft Bicycle and Walk Tour
 |
 
 As a participant in BMD 2023, we are delighted to offer you the possibility to
-choose between different tours: a bicycle or a walking tour of Delft.
+choose between different tours: a bicycle or a walking tour of Delft. If you
+registered for this event, make sure to choose bicycle or walking at the
+conference registration desk. The choice of bicycling or walking is first-come,
+first-serve for the limited slots.
 
 The Netherlands loves bicycles! With experienced guides, you will have a look
 into the Dutch bicycle transportation design and its features. (50 slots
-available, bicycles will be provided).  
+available, bicycles will be provided).
 
-| **Starting point:** `X (building 37) <https://www.tudelft.nl/en/x/>`_
+| **Bicycle Starting point:** X (building 37)
 | **End point:** `Delft train station <https://maps.app.goo.gl/gGKELSVJAei4LGWCA>`_
 | **Time:** 15:00-16:45h
-_____________________________________________________
-
-Alternatively, you can join a walking tour. Local guides will take you through
-the city center and provide you with valuable insight into this beautiful Dutch-style
-town (60 slots available). We will walk together from the conference venue to the starting point.
-
-| **Starting point:** `TU Delft Faculty of Architecture & the Built Environment <https://maps.app.goo.gl/4PcjoMf4zzrnhuvH8>`_
-| **End point:** `Delft train station <https://maps.app.goo.gl/gGKELSVJAei4LGWCA>`_
-| **Time:** 15:30-17:00h  
 |
-
-.. figure:: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/009_Delft%2C_Netherlands.jpg/360px-009_Delft%2C_Netherlands.jpg
-   :align: center
-   :width: 60%
-
-   Delft Stadhuis (City Hall), `Marek Slusarczyk
-   <https://commons.wikimedia.org/wiki/File:009_Delft,_Netherlands.jpg>`_, `CC
-   BY 3.0 <https://creativecommons.org/licenses/by/3.0>`_, via Wikimedia
-   Commons
 
 .. raw:: html
 
    <center>
-   <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=4.356945455074311%2C52.01096580149787%2C4.361424744129182%2C52.012423547358665&amp;layer=mapnik&amp;marker=52.01169550581535%2C4.359185099601746" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.01170&amp;mlon=4.35919#map=19/52.01169/4.35919">View Larger Map</a></small>
+   <iframe width="425" height="350"
+   src="https://www.openstreetmap.org/export/embed.html?bbox=4.374393224716187%2C51.99458229346739%2C4.378872513771058%2C51.996040573011214&amp;layer=mapnik&amp;marker=51.99531143917657%2C4.376632869243622"
+   style="border: 1px solid black"></iframe><br/><small><a
+   href="https://www.openstreetmap.org/?mlat=51.99531&amp;mlon=4.37663#map=19/51.99531/4.37663">View
+   Larger Map</a></small>
    </center>
 
+Alternatively, you can join a walking tour. Local guides will take you through
+the city center and provide you with valuable insight into this beautiful
+Dutch-style town (60 slots available). We will walk together from the
+conference venue to the starting point.
+
+| **Walk Starting point:** TU Delft Faculty of Architecture & the Built Environment
+| **End point:** `Delft train station <https://maps.app.goo.gl/gGKELSVJAei4LGWCA>`_
+| **Time:** 15:30-17:00h
+|
+
+.. raw:: html
+
+   <center>
+   <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=4.369044899940492%2C52.00507820422375%2C4.371405243873597%2C52.00658072133518&amp;layer=mapnik&amp;marker=52.00582946908479%2C4.3702250719070435" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.00583&amp;mlon=4.37023#map=19/52.00583/4.37023">View Larger Map</a></small>
+   </center>
