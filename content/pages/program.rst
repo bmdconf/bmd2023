@@ -24,7 +24,7 @@ Poster Presentation Instructions
 - Your poster can be hung for the duration of the conference.
 - You may stand by your poster at all poster sessions but are only required to
   do so during your designated poster session.
-- We do not print your poster for you, nor do we facilitate that.
+- We do not print your poster for you, nor do we facilitate that. You can directly contact copy shops in Delft (`De Copie-Sjop <https://copie-sjop.nl/>`_  is one of the printing services, close to Delft train station).
 
 Below you will find the full conference program with all oral and poster
 presentation times as well as event times. Final locations and complete details
