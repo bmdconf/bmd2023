@@ -277,7 +277,7 @@ filled sheet per review on Orvium. You can use odt or docx.
 Logo
 ----
 
-Download an SVG of the BMD 2023 logo:
+Download an SVG of the `BMD 2023 logo <https://objects-us-east-1.dream.io/mechmotum/bmd-2023-logo.svg>`_:
 
 .. image:: https://objects-us-east-1.dream.io/mechmotum/bmd-2023-logo.svg
    :target: https://objects-us-east-1.dream.io/mechmotum/bmd-2023-logo.svg
