@@ -176,8 +176,8 @@ Thursday Dinner
 
 We will host a dinner for conference participants the evening of Thursday the
 19th at `Eetcafé & Restaurant De Waag <https://www.de-waag.nl/>`_ in the Delft
-city center. This dinner will be included with your conference registration
-fee.
+city center. **This dinner will only be included with your conference
+registration fee if you register by October 5th, 2023.**
 
 .. figure:: https://objects-us-east-1.dream.io/mechmotum/de-waag.jpg
    :align: center
