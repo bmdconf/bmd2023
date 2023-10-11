@@ -24,11 +24,25 @@ Poster Presentation Instructions
 - Your poster can be hung for the duration of the conference.
 - You may stand by your poster at all poster sessions but are only required to
   do so during your designated poster session.
-- We do not print your poster for you, nor do we facilitate that. You can directly contact copy shops in Delft (`De Copie-Sjop <https://copie-sjop.nl/>`_  is one of the printing services, close to Delft train station).
+- We do not print your poster for you, nor do we facilitate that. You can
+  directly contact copy shops in Delft (`De Copie-Sjop
+  <https://copie-sjop.nl/>`_  is one of the printing services, close to Delft
+  train station).
+
+Program
+=======
 
 Below you will find the full conference program with all oral and poster
-presentation times as well as event times. Final locations and complete details
-will be added before October.
+presentation times as well as event times or download the PDF version of the
+program booklet:
+
+.. image:: https://objects-us-east-1.dream.io/mechmotum/bmd-2023-program-cover.png
+   :target: https://objects-us-east-1.dream.io/mechmotum/bmd-2023-program.pdf
+   :width: 300px
+   :align: center
+
+|
+|
 
 .. raw:: html
 
