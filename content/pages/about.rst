@@ -101,8 +101,16 @@ Important Dates
        <ul>
          <li>Christoph Schmidt [TU Delft]</li>
          <li>Gabriele Dell'Orto [TU Delft]</li>
+         <li>Jan Groenhuis [TU Delft]</li>
+         <li>Jule Ronné [Uni. Gustave Eiffel]</li>
+         <li>Julie van Vlerken [TU Delft]</li>
+         <li>Kirsten Dijkman [TU Delft]</li>
          <li>Linda van der Spaa [TU Delft]</li>
+         <li>Marten Haitjema [TU Delft]</li>
+         <li>Ragnhild Maarleveld [TU Delft]</li>
          <li>Riender Happee [TU Delft]</li>
+         <li>Thomas Habing [TU Delft]</li>
+         <li>Tim Reuscher [RWTH Aachen]</li>
        </ul>
      </div>
    </div>
