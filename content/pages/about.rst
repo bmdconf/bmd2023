@@ -78,10 +78,10 @@ Important Dates
      - :strike:`September 15, 2023 [23:59 UTC]`
    * - :strike:`Last day to register w/ dinner included`
      - :strike:`October 5th, 2023`
-   * - Paper peer review deadline
+   * - :strike:`Paper peer review deadline `
      - December 1, 2023
    * - Final peer review revision deadline
-     - TBA (after the conference)
+     - March 15, 2023
 
 .. raw:: html
 
