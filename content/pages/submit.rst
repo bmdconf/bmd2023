@@ -60,9 +60,9 @@ Important Dates
    * - :strike:`Last day to register w/ dinner included`
      - :strike:`October 5th, 2023`
    * - :strike:`Paper peer review deadline`
-     - December 1, 2023
-   * - Final peer review revision deadline
-     - March 15, 2023
+     - :strike:`December 1, 2023`
+   * - :strike:`Final peer review revision deadline`
+     - :strike:`March 15, 2023`
 
 Topics
 ======
