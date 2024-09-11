@@ -39,4 +39,4 @@ jobs:
         git config --global user.name "Github Actions"
         git config --global user.email bmdconf@users.noreply.github.com
         git remote add deploy "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/bmdconf/bmd2023.git"
-        ghp-import --no-jekyll --no-history --remote deploy --branch gh-pages --message "Updated via Github Actions [skip ci]" -p output
+        ghp-import --no-jekyll --cname 2023.bmdconf.org --no-history --remote deploy --branch gh-pages --message "Updated via Github Actions [skip ci]" -p output
