@@ -223,7 +223,7 @@ only accept submissions that follow the instructions because other file types
 or designs will not be compatible with the Orvium publishing system.
 
 Please report any issues with the templates at:
-https://github.com/moorepants/bmd-templates/issues
+https://github.com/bmdconf/bmd-templates/issues
 
 Paper Templates
 ---------------
@@ -232,11 +232,11 @@ Libre/OpenOffice, Microsoft Word, and LaTeX templates for the conference papers
 can be downloaded from these links:
 
 - `Paper Libre/OpenOffice
-  <https://github.com/moorepants/bmd-templates/releases/download/paper-v1.0/bmd2023p.odt>`_ (.odt)
+  <https://github.com/bmdconf/bmd-templates/releases/download/paper-v1.0/bmd2023p.odt>`_ (.odt)
 - `Paper Microsoft Word
-  <https://github.com/moorepants/bmd-templates/releases/download/paper-v1.0/bmd2023p.docx>`_ (.docx)
+  <https://github.com/bmdconf/bmd-templates/releases/download/paper-v1.0/bmd2023p.docx>`_ (.docx)
 - `Paper LaTeX
-  <https://github.com/moorepants/bmd-templates/releases/download/paper-v1.0/bmd2023p.zip>`_ (.zip)
+  <https://github.com/bmdconf/bmd-templates/releases/download/paper-v1.0/bmd2023p.zip>`_ (.zip)
 
 Extended Abstract Templates
 ---------------------------
@@ -245,11 +245,11 @@ Libre/OpenOffice, Microsoft Word, and LaTeX templates for the conference
 abstracts can be downloaded from these links:
 
 - `Abstract Libre/OpenOffice
-  <https://github.com/moorepants/bmd-templates/releases/download/abstract-v1.2/bmd2023a.odt>`_ (.odt)
+  <https://github.com/bmdconf/bmd-templates/releases/download/abstract-v1.2/bmd2023a.odt>`_ (.odt)
 - `Abstract Microsoft Word
-  <https://github.com/moorepants/bmd-templates/releases/download/abstract-v1.2/bmd2023a.docx>`_ (.docx)
+  <https://github.com/bmdconf/bmd-templates/releases/download/abstract-v1.2/bmd2023a.docx>`_ (.docx)
 - `Abstract LaTeX
-  <https://github.com/moorepants/bmd-templates/releases/download/abstract-v1.2/bmd2023a.zip>`_ (.zip)
+  <https://github.com/bmdconf/bmd-templates/releases/download/abstract-v1.2/bmd2023a.zip>`_ (.zip)
 
 Poster Templates
 ----------------
@@ -270,9 +270,9 @@ Reviewers should use the template below for reviewing abstracts. Submit one
 filled sheet per review on Orvium. You can use odt or docx.
 
 - `Abstract Review Sheet Libre/OpenOffice
-  <https://github.com/moorepants/bmd-templates/releases/download/abstract-review-v1.0/bmd2023ar.odt>`_ (.odt)
+  <https://github.com/bmdconf/bmd-templates/releases/download/abstract-review-v1.0/bmd2023ar.odt>`_ (.odt)
 - `Abstract Review Sheet Microsoft Word
-  <https://github.com/moorepants/bmd-templates/releases/download/abstract-review-v1.0/bmd2023ar.docx>`_ (.docx)
+  <https://github.com/bmdconf/bmd-templates/releases/download/abstract-review-v1.0/bmd2023ar.docx>`_ (.docx)
 
 Logo
 ----
