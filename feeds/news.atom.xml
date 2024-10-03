@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Bicycle &amp; Motorcycle Dynamics 2023 - news</title><link href="https://2023.bmdconf.org/" rel="alternate"></link><link href="https://2023.bmdconf.org/feeds/news.atom.xml" rel="self"></link><id>https://2023.bmdconf.org/</id><updated>2024-10-03T00:00:00+02:00</updated><subtitle>Symposium on the Dynamics and Control of Single Track Vehicles &lt;br&gt; 18-20 October 2023, Delft University of Technology, Delft, Netherlands</subtitle><entry><title>All Conference Papers Now Published</title><link href="https://2023.bmdconf.org/news/proceedings-papers-published.html" rel="alternate"></link><published>2024-10-03T00:00:00+02:00</published><updated>2024-10-03T00:00:00+02:00</updated><author><name>Jason K. Moore</name></author><id>tag:2023.bmdconf.org,2024-10-03:/news/proceedings-papers-published.html</id><summary type="html">&lt;p&gt;Now that the open peer review process has concluded, we are happy to announce
+that we have accepted and published &lt;strong&gt;28 peer reviewed conference papers&lt;/strong&gt;
+resulting from the work of the presenters and authors at the 2023 Bicycle and
+Motorcycle Dynamics Conference. Congratulations to all authors! We are grateful
+for …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Now that the open peer review process has concluded, we are happy to announce
+that we have accepted and published &lt;strong&gt;28 peer reviewed conference papers&lt;/strong&gt;
+resulting from the work of the presenters and authors at the 2023 Bicycle and
+Motorcycle Dynamics Conference. Congratulations to all authors! We are grateful
+for the work of all the anonymous reviewers, the editors, and both the TU Delft
+OPEN Publishing team and the Orvium team to make this all happen.&lt;/p&gt;
+&lt;p&gt;All papers and their associated reviews can be viewed on the &lt;a class="reference external" href="https://dapp.orvium.io/communities/63c57270b637ecd577c3a733/view"&gt;Orvium BMD
+Community Page&lt;/a&gt;:&lt;/p&gt;
+&lt;div class="figure align-center"&gt;
+&lt;a class="reference external image-reference" href="https://dapp.orvium.io/communities/63c57270b637ecd577c3a733/view"&gt;
+&lt;img alt="" src="https://moorepants.info/mechmotum-bucket/orvium-community.png" /&gt;
+&lt;/a&gt;
+&lt;p class="caption"&gt;&lt;a class="reference external" href="https://dapp.orvium.io/communities/63c57270b637ecd577c3a733/view"&gt;Orvium BMD Community Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Each published paper will have either two or three versions, depending whether
+there was one round of peer review or two. The peer reviews for each version
+can be accessed in the right panel or the &amp;quot;REVIEWS&amp;quot; tab and the author's
+response to the reviews can be found under the &amp;quot;FILES&amp;quot; tab.&lt;/p&gt;
+&lt;div class="figure align-center"&gt;
+&lt;a class="reference external image-reference" href="https://doi.org/10.59490/65e0736e3d3955984cdf53a6"&gt;
+&lt;img alt="" src="https://objects-us-east-1.dream.io/mechmotum/example-published-paper.png" style="width: 90%;" /&gt;
+&lt;/a&gt;
+&lt;p class="caption"&gt;Example paper showing the published Version 2 and the initially submitted
+Version 1 along with the open peer reviews and editorial decision for each
+version on the right panel.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;We are busy preparing the proceedings book made up of presented abstracts and
+all conference papers. Look for an announcement about it in the near future.&lt;/p&gt;
+</content><category term="news"></category><category term="publishing"></category><category term="proceedings"></category><category term="papers"></category></entry><entry><title>Keynote Announcement: Dr. Arend L. Schwab</title><link href="https://2023.bmdconf.org/news/keynote-schwab.html" rel="alternate"></link><published>2023-06-21T17:49:00+02:00</published><updated>2023-06-21T17:49:00+02:00</updated><author><name>Jason K. Moore</name></author><id>tag:2023.bmdconf.org,2023-06-21:/news/keynote-schwab.html</id><summary type="html">&lt;p&gt;We are happy to announce our second keynote talk for BMD 2023: Dr. Arend L.
+Schwab from &lt;a class="reference external" href="https://www.tudelft.nl"&gt;Delft University of Technology&lt;/a&gt;. Dr. Schwab has contributed to
+significant advances in bicycle dynamics and control research for the last 25
+years.&lt;/p&gt;
+&lt;div class="figure align-center"&gt;
+&lt;img alt="" src="https://objects-us-east-1.dream.io/mechmotum/headshot-arend-schwab.jpg" style="width: 40%;" /&gt;
+&lt;p class="caption"&gt;Dr. Arend L. Schwab, Emeritus of Delft University of Technology&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title …&lt;/h2&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;We are happy to announce our second keynote talk for BMD 2023: Dr. Arend L.
+Schwab from &lt;a class="reference external" href="https://www.tudelft.nl"&gt;Delft University of Technology&lt;/a&gt;. Dr. Schwab has contributed to
+significant advances in bicycle dynamics and control research for the last 25
+years.&lt;/p&gt;
+&lt;div class="figure align-center"&gt;
+&lt;img alt="" src="https://objects-us-east-1.dream.io/mechmotum/headshot-arend-schwab.jpg" style="width: 40%;" /&gt;
+&lt;p class="caption"&gt;Dr. Arend L. Schwab, Emeritus of Delft University of Technology&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;Bicycle Dynamics and Control: A 'Sleeping Beauty'&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In this presentation I will briefly look back at 125 years of research on
+bicycle dynamics and control. After which I will quickly move on to more timely
+questions and problems in cycling research.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="biography"&gt;
+&lt;h2&gt;Biography&lt;/h2&gt;
+&lt;p&gt;Dr. Schwab is the founder of the TUDelft Bicycle Lab and has been running that
+until my recent retirement from TUDelft. I'm in theoretical and applied
+mechanics and I teach mechanics and multibody dynamics. I am interested in
+Dynamics of Mechanical Systems, the so-called Multibody Dynamics. In particular
+the treatment of contact phenomena like in collisions and rolling
+(non-holonomic constraints) have my special interest. I also know more or less
+about dynamics of flexible multibody system, finite element method,
+biomechanics, legged locomotion, speed skating and bicycle dynamics and rider
+control. My degrees are from Engineering at Dordrecht (BSc 1979) and at Delft
+(MSc 1983, PhD 2002).&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="news"></category></entry><entry><title>Keynote Announcement: Professor Emeritus Ichiro Kageyama</title><link href="https://2023.bmdconf.org/news/keynote-kageyama.html" rel="alternate"></link><published>2023-06-09T14:39:00+02:00</published><updated>2023-06-09T14:39:00+02:00</updated><author><name>Jason K. Moore</name></author><id>tag:2023.bmdconf.org,2023-06-09:/news/keynote-kageyama.html</id><summary type="html">&lt;p&gt;Keynotes are a new addition to the BMD conference series and we have introduced
+them to highlight the work and wisdom of prominent leaders in our field. We are
+happy to announce our first keynote talk for BMD 2023: Professor Emeritus
+Ichiro Kageyama from &lt;a class="reference external" href="https://www.nihon-u.ac.jp/en/"&gt;Nihon University&lt;/a&gt;. Professor Kageyama has contributed …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Keynotes are a new addition to the BMD conference series and we have introduced
+them to highlight the work and wisdom of prominent leaders in our field. We are
+happy to announce our first keynote talk for BMD 2023: Professor Emeritus
+Ichiro Kageyama from &lt;a class="reference external" href="https://www.nihon-u.ac.jp/en/"&gt;Nihon University&lt;/a&gt;. Professor Kageyama has contributed to
+significant advances in motorcycle dynamics and control research for over four
+decades.&lt;/p&gt;
+&lt;div class="figure align-center"&gt;
+&lt;img alt="" src="https://objects-us-east-1.dream.io/mechmotum/headshot-kageyama-ichiro.png" style="width: 40%;" /&gt;
+&lt;p class="caption"&gt;Ichiro Kageyama (Dr. Eng.), Professor Emeritus of Nihon University&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;The History of Two-wheeled Vehicle Dynamics in Japan and Subsequent Trends&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Japan had been closed off from the rest of the world for about 220 years until
+170 years ago, and as a result, a variety of academic disciplines were
+developed independently. For example, in the field of mathematics, using
+&amp;quot;Wa-san (Way of Japanese Mathematics)&amp;quot;, Kowa Seki derived a method for finding
+solutions to simultaneous equations by the method of elimination 70 years
+before Europe. In addition, calculation of π was presented in the 1600s,
+showing up to 26 digits by him. Furthermore, there are references to the use of
+derivatives in analysis, although the method of expression is different. Thus,
+a unique academic culture developed in Japan. However, while it has attracted
+attention in Japan as historical research material, its achievements have not
+received much attention, and the academic systems established in the western
+countries have been emphasized. One of the characteristics of the Japanese
+academic system is that many academic discussions, including those in the
+engineering field, have been conducted in Japanese due to the environment in
+which students can study in Japanese, including reference materials in the
+latest academic fields. Therefore, while it has been easy to develop academic
+studies in Japan, the language barrier, such as English, has been a major
+bottleneck to exchange with foreign countries.&lt;/p&gt;
+&lt;p&gt;Turning to the motorcycles, the industry expanded rapidly after World War II,
+as many companies entered the motorcycle manufacturing business. In response to
+this trend, Masaichi Kondo, an aeronautics scholar, conducted vigorous research
+activities focusing on the stability and handling of motorcycles and
+four-wheeled vehicles. In 1948, the basic equations of motion and steady state
+turning characteristics of motorcycles were presented. Later, in 1955, these
+were compiled, and the study of motorcycle dynamics was published. From the
+mid-1950s to the early 1960s, many experimental and theoretical studies related
+to motorcycles were conducted in Japan. As research worthy of attention at the
+time, studies on modeling and stabilization of riders operating motorcycles
+were already conducted in 1962, using feedback control theory. Later, in the
+mid-1960s, more attention was paid to tire characteristics from a dynamics
+point of view, and the results of these measurements were also published.
+However, most of the research on motorcycles in Japan is difficult to obtain
+due to the fact that almost of these were handwritten lecture manuscripts, and
+has not received much attention worldwide. For this reason, many researchers
+consider the motorcycle dynamics published by Sharp in 1971 as the starting
+point for full-scale research on motorcycle dynamics, and in recent years, even
+in Japan, many researchers in this field have discussed on the basis of the
+equations of motion by Sharp.&lt;/p&gt;
+&lt;p&gt;Having had the opportunity to give a keynote lecture on motorcycle dynamics at
+BMD, I have decided to summarize how research on motorcycle dynamics and
+kinematics have developed in Japan and how it has evolved since then, focusing
+particularly on research conducted in Japan. In my presentation, I would like
+to divide the dynamics of motorcycle kinematics into several areas and show
+what research has been done in each of these individual areas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="biography"&gt;
+&lt;h2&gt;Biography&lt;/h2&gt;
+&lt;p&gt;Academic Activities:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;1977-2020 Nihon University College of Industrial Technology (From 1994- 2020
+Professor in Nihon University)&lt;/li&gt;
+&lt;li&gt;1989-1990 Guest researcher at Technical University of Delft (The Netherlands)&lt;/li&gt;
+&lt;li&gt;2024 Guest researcher at Swedish National Road and Transport Research
+Institute (VTI) (Sweden)&lt;/li&gt;
+&lt;li&gt;2010-2017 Director of Center for Automotive Research (NU-CAR)&lt;/li&gt;
+&lt;li&gt;2014-2020 Visiting Professor at Nagoya University&lt;/li&gt;
+&lt;li&gt;2020- Professor Emeritus of Nihon University&lt;/li&gt;
+&lt;li&gt;2020- Representative Director of Consortium on Advanced Road-Friction
+Database&lt;/li&gt;
+&lt;li&gt;JSAE Fellow, JSME Fellow&lt;/li&gt;
+&lt;li&gt;General Chairman of AVEC’02&lt;/li&gt;
+&lt;li&gt;General Chairman of BMD’13&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;During this period, his research interests included vehicle dynamics
+(Articulated vehicle dynamics, passenger car dynamics, motorcycle dynamics,
+tire characteristics and modeling), vehicle motion control (driver models,
+rider models, autopilot vehicle, construction of rider robot), and
+human-machine systems (human interface, human vibration characteristics), and
+so on.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="news"></category></entry><entry><title>Registration Open</title><link href="https://2023.bmdconf.org/news/registration-open.html" rel="alternate"></link><published>2023-05-01T17:01:00+02:00</published><updated>2023-05-01T17:01:00+02:00</updated><author><name>Jason K. Moore</name></author><id>tag:2023.bmdconf.org,2023-05-01:/news/registration-open.html</id><summary type="html">&lt;p&gt;Registration is now open! Register by August 15, 2023 to receive the early bird
+discount. See the &lt;a class="reference external" href="https://2023.bmdconf.org/registration.html"&gt;registration page&lt;/a&gt; for more information or go directly to
+Aanmelder.nl to register:&lt;/p&gt;
+&lt;p style="text-align: center; font-size: 24px;"&gt;
+  &lt;a href="https://www.aanmelder.nl/bmddelft2023"&gt;www.aanmelder.nl/bmddelft2023&lt;/a&gt;
+&lt;/p&gt;&lt;p&gt;We are also offering a limited amount of financial travel assistance. See the
+instructions on the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Registration is now open! Register by August 15, 2023 to receive the early bird
+discount. See the &lt;a class="reference external" href="https://2023.bmdconf.org/registration.html"&gt;registration page&lt;/a&gt; for more information or go directly to
+Aanmelder.nl to register:&lt;/p&gt;
+&lt;p style="text-align: center; font-size: 24px;"&gt;
+  &lt;a href="https://www.aanmelder.nl/bmddelft2023"&gt;www.aanmelder.nl/bmddelft2023&lt;/a&gt;
+&lt;/p&gt;&lt;p&gt;We are also offering a limited amount of financial travel assistance. See the
+instructions on the &lt;a class="reference external" href="https://2023.bmdconf.org/registration.html"&gt;registration page&lt;/a&gt; to apply.&lt;/p&gt;
+</content><category term="news"></category></entry><entry><title>Notification of Acceptance</title><link href="https://2023.bmdconf.org/news/notification-of-acceptance.html" rel="alternate"></link><published>2023-05-01T17:00:00+02:00</published><updated>2023-05-01T17:00:00+02:00</updated><author><name>Jason K. Moore</name></author><id>tag:2023.bmdconf.org,2023-05-01:/news/notification-of-acceptance.html</id><summary type="html">&lt;p&gt;From the largest number of submissions ever, we have accepted 68 extended
+abstracts for 40 oral and 28 poster presentations for this offering of the
+Bicycle and Motorcycle Dynamics conference. Authors have submitted from 17
+different countries (Austria, Canada, Chile, Columbia, France, Germany,
+Hungary, India, Italy, Japan, Spain, Sweden, Switzerland …&lt;/p&gt;</summary><content type="html">&lt;p&gt;From the largest number of submissions ever, we have accepted 68 extended
+abstracts for 40 oral and 28 poster presentations for this offering of the
+Bicycle and Motorcycle Dynamics conference. Authors have submitted from 17
+different countries (Austria, Canada, Chile, Columbia, France, Germany,
+Hungary, India, Italy, Japan, Spain, Sweden, Switzerland, Thailand, The
+Netherlands, United Kingdom, and United States of America)&lt;/p&gt;
+&lt;p&gt;Authors should have received notification via email. The first versions of the
+accepted extended abstracts are presently publicly viewable on the &lt;a class="reference external" href="https://dapp.orvium.io/communities/63c57270b637ecd577c3a733/view"&gt;Orvium BMD
+Community Page&lt;/a&gt; alongside the anonymized reviews. Abstracts were selected for
+oral and poster presentations based on the ratings and comments provided in the
+reviews. The abstracts are labeled &amp;quot;presentation&amp;quot; or &amp;quot;poster&amp;quot; to indicate the
+two presentation types.&lt;/p&gt;
+&lt;p&gt;We gratefully thank the 32 members of the scientific committee for providing
+the reviews, TU Delft Open Publishing, Orvium, and our volunteers for managing
+the publication workflow, and our organizing committee for making the final
+selections. Accepted authors will have until June 30th to make minor
+improvements to their abstracts for the versions that will be included in the
+proceedings. Authors should also begin preparing their full papers. We will
+soon provide the templates and Orvium submission instructions. Finally,
+&lt;a class="reference external" href="https://2023.bmdconf.org/registration.html"&gt;registration&lt;/a&gt; and travel grant
+applications are now open.&lt;/p&gt;
+&lt;div class="figure align-center"&gt;
+&lt;a class="reference external image-reference" href="https://dapp.orvium.io/communities/63c57270b637ecd577c3a733/view"&gt;
+&lt;img alt="" src="https://moorepants.info/mechmotum-bucket/orvium-community.png" /&gt;
+&lt;/a&gt;
+&lt;p class="caption"&gt;&lt;a class="reference external" href="https://dapp.orvium.io/communities/63c57270b637ecd577c3a733/view"&gt;Orvium BMD Community Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="news"></category></entry><entry><title>Final Call for Abstracts</title><link href="https://2023.bmdconf.org/news/final-call-for-abstracts.html" rel="alternate"></link><published>2023-02-22T06:50:00+01:00</published><updated>2023-02-22T06:50:00+01:00</updated><author><name>Jason K. Moore</name></author><id>tag:2023.bmdconf.org,2023-02-22:/news/final-call-for-abstracts.html</id><summary type="html">&lt;a class="reference external image-reference" href="https://2023.bmdconf.org"&gt;
+&lt;img alt="" class="align-center" src="https://moorepants.info/mechmotum-bucket/bmd2023-logo-large-640x295.png" style="width: 60%;" /&gt;
+&lt;/a&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstracts-due-february-28th"&gt;
+&lt;h2&gt;Abstracts Due February 28th&lt;/h2&gt;
+&lt;p&gt;Two-page abstracts for oral or poster presentations are &lt;strong&gt;due on February 28th,
+2023&lt;/strong&gt;. Abstract templates are available on the conference website along with
+instructions for submitting your abstract to Orvium. &lt;a class="reference external" href="https://2023.bmdconf.org/submit.html"&gt;Read more...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The LaTeX and Word templates have been recently updated to correct some
+issues. Please …&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;a class="reference external image-reference" href="https://2023.bmdconf.org"&gt;
+&lt;img alt="" class="align-center" src="https://moorepants.info/mechmotum-bucket/bmd2023-logo-large-640x295.png" style="width: 60%;" /&gt;
+&lt;/a&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstracts-due-february-28th"&gt;
+&lt;h2&gt;Abstracts Due February 28th&lt;/h2&gt;
+&lt;p&gt;Two-page abstracts for oral or poster presentations are &lt;strong&gt;due on February 28th,
+2023&lt;/strong&gt;. Abstract templates are available on the conference website along with
+instructions for submitting your abstract to Orvium. &lt;a class="reference external" href="https://2023.bmdconf.org/submit.html"&gt;Read more...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The LaTeX and Word templates have been recently updated to correct some
+issues. Please download the new templates if affected.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="registration-fees-posted"&gt;
+&lt;h2&gt;Registration Fees Posted&lt;/h2&gt;
+&lt;p&gt;Registration will open May 1st with an early bird fee (€275) deadline of August
+15th. &lt;a class="reference external" href="https://2023.bmdconf.org/registration.html"&gt;Read more...&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="pre-conference-simulator-workshop"&gt;
+&lt;h2&gt;Pre-Conference Simulator Workshop&lt;/h2&gt;
+&lt;p&gt;Riender Happee &amp;amp; Linda van der Spaa (TU Delft) along with Tim Reuscher (RWTH
+Aachen) will host a two hour workshop titled &amp;quot;2-wheeler simulators – lessons
+learned in training and research&amp;quot; on Tuesday, October 17th, 2023. Abstracts for
+workshop participation are &lt;strong&gt;due February 28th&lt;/strong&gt;. &lt;a class="reference external" href="https://2023.bmdconf.org/news/call-for-simulator-workshop-abstracts.html"&gt;Read more...&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="presentation-awards"&gt;
+&lt;h2&gt;Presentation Awards&lt;/h2&gt;
+&lt;p&gt;Six monetary awards will be given to the best presentations based on votes by
+conference attendees. &lt;a class="reference external" href="https://2023.bmdconf.org/submit.html#awards"&gt;Read more...&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="travel-grants"&gt;
+&lt;h2&gt;Travel Grants&lt;/h2&gt;
+&lt;p&gt;As a new offering, we will award a small number of travel grants to financially
+disadvantaged researchers. To be eligible, you must submit a short application
+after your abstract is accepted. Look for more information on the conference
+website soon.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="sponsors"&gt;
+&lt;h2&gt;Sponsors&lt;/h2&gt;
+&lt;p&gt;We are looking for financial sponsors to help make the conference accessible
+and affordable. There are three donation tiers for sponsorship with perks
+ranging from advertising your company to having an exhibitor table at the
+venue. Contact &lt;a class="reference external" href="mailto:sponsorships&amp;#64;bmdconf.org"&gt;sponsorships&amp;#64;bmdconf.org&lt;/a&gt; if you would like to donate. &lt;a class="reference external" href="https://2023.bmdconf.org/sponsor-information.html"&gt;Read
+more...&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bike-rodeo"&gt;
+&lt;h2&gt;Bike Rodeo&lt;/h2&gt;
+&lt;p&gt;Following tradition, we will have a bike rodeo social event where attendees
+will be able to test out innovative bicycles, e-bikes, scooters, motorbikes,
+etc. If you would like to bring a bike to exhibit, contact
+&lt;a class="reference external" href="mailto:sponsorships&amp;#64;bmdconf.org"&gt;sponsorships&amp;#64;bmdconf.org&lt;/a&gt;. &lt;a class="reference external" href="https://2023.bmdconf.org/events.html"&gt;Read more...&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="contact"&gt;
+&lt;h2&gt;Contact&lt;/h2&gt;
+&lt;p&gt;Contact &lt;a class="reference external" href="mailto:info&amp;#64;bmdconf.org"&gt;info&amp;#64;bmdconf.org&lt;/a&gt; for more information.&lt;/p&gt;
+&lt;p&gt;We invite you to submit a contribution to the conference and look forward to
+seeing you in Delft!&lt;/p&gt;
+&lt;p&gt;Sincerely,&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Jason K. Moore&lt;/div&gt;
+&lt;div class="line"&gt;Andrew Dressel&lt;/div&gt;
+&lt;div class="line"&gt;Edwin de Vries&lt;/div&gt;
+&lt;div class="line"&gt;Leila Alizadehsaravi&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;BioMechanical Engineering Department&lt;/div&gt;
+&lt;div class="line"&gt;Delft University of Technology&lt;/div&gt;
+&lt;div class="line"&gt;Delft, The Netherlands&lt;/div&gt;
+&lt;/div&gt;
+&lt;a class="reference external image-reference" href="https://www.tudelft.nl/en/3me/about/departments/biomechanical-engineering"&gt;
+&lt;img alt="" src="https://d2k0ddhflgrk1i.cloudfront.net/3mE/BME-met-tekst-large.png" style="height: 100px;" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+</content><category term="news"></category></entry><entry><title>Second Call for Abstracts and Other Updates</title><link href="https://2023.bmdconf.org/news/second-call-for-abstracts.html" rel="alternate"></link><published>2023-01-17T15:00:00+01:00</published><updated>2023-01-17T15:00:00+01:00</updated><author><name>Jason K. Moore</name></author><id>tag:2023.bmdconf.org,2023-01-17:/news/second-call-for-abstracts.html</id><summary type="html">&lt;a class="reference external image-reference" href="https://2023.bmdconf.org"&gt;
+&lt;img alt="" class="align-center" src="https://moorepants.info/mechmotum-bucket/bmd2023-logo-large-640x295.png" style="width: 60%;" /&gt;
+&lt;/a&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstracts-due-february-28th"&gt;
+&lt;h2&gt;Abstracts Due February 28th&lt;/h2&gt;
+&lt;p&gt;Two-page abstracts for oral or poster presentations are &lt;strong&gt;due on February 28th,
+2023&lt;/strong&gt;. Abstract templates are available on the conference website along with
+instructions for submitting your abstract to Orvium. &lt;a class="reference external" href="https://2023.bmdconf.org/submit.html"&gt;Read more...&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="pre-conference-simulator-workshop"&gt;
+&lt;h2&gt;Pre-Conference Simulator Workshop&lt;/h2&gt;
+&lt;p&gt;Riender Happee &amp;amp; Linda van der Spaa (TU Delft) along with Tim …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;a class="reference external image-reference" href="https://2023.bmdconf.org"&gt;
+&lt;img alt="" class="align-center" src="https://moorepants.info/mechmotum-bucket/bmd2023-logo-large-640x295.png" style="width: 60%;" /&gt;
+&lt;/a&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstracts-due-february-28th"&gt;
+&lt;h2&gt;Abstracts Due February 28th&lt;/h2&gt;
+&lt;p&gt;Two-page abstracts for oral or poster presentations are &lt;strong&gt;due on February 28th,
+2023&lt;/strong&gt;. Abstract templates are available on the conference website along with
+instructions for submitting your abstract to Orvium. &lt;a class="reference external" href="https://2023.bmdconf.org/submit.html"&gt;Read more...&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="pre-conference-simulator-workshop"&gt;
+&lt;h2&gt;Pre-Conference Simulator Workshop&lt;/h2&gt;
+&lt;p&gt;Riender Happee &amp;amp; Linda van der Spaa (TU Delft) along with Tim Reuscher (RWTH
+Aachen) will host a two hour workshop titled &amp;quot;2-wheeler simulators – lessons
+learned in training and research&amp;quot; on Tuesday, October 17th, 2023. Abstracts for
+workshop participation are &lt;strong&gt;due February 28th&lt;/strong&gt;. &lt;a class="reference external" href="https://2023.bmdconf.org/news/call-for-simulator-workshop-abstracts.html"&gt;Read more...&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="presentation-awards"&gt;
+&lt;h2&gt;Presentation Awards&lt;/h2&gt;
+&lt;p&gt;Six monetary awards will be given to the best presentations based on votes by
+conference attendees. &lt;a class="reference external" href="https://2023.bmdconf.org/submit.html#awards"&gt;Read more...&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="travel-grants"&gt;
+&lt;h2&gt;Travel Grants&lt;/h2&gt;
+&lt;p&gt;As a new offering, we will award a small number of travel grants to financially
+disadvantaged researchers. To be eligible, you must submit a short application
+after your abstract is accepted. Look for more information on the conference
+website soon.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="sponsors"&gt;
+&lt;h2&gt;Sponsors&lt;/h2&gt;
+&lt;p&gt;We are looking for financial sponsors to help make the conference accessible
+and affordable. There are three donation tiers for sponsorship with perks
+ranging from advertising your company to having an exhibitor table at the
+venue. Contact &lt;a class="reference external" href="mailto:sponsorships&amp;#64;bmdconf.org"&gt;sponsorships&amp;#64;bmdconf.org&lt;/a&gt; if you would like to donate. &lt;a class="reference external" href="https://2023.bmdconf.org/sponsor-information.html"&gt;Read
+more...&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bike-rodeo"&gt;
+&lt;h2&gt;Bike Rodeo&lt;/h2&gt;
+&lt;p&gt;Following tradition, we will have a bike rodeo social event where attendees
+will be able to test out innovative bicycles, e-bikes, scooters, motorbikes,
+etc. If you would like to bring a bike to exhibit, contact
+&lt;a class="reference external" href="mailto:sponsorships&amp;#64;bmdconf.org"&gt;sponsorships&amp;#64;bmdconf.org&lt;/a&gt;. &lt;a class="reference external" href="https://2023.bmdconf.org/events.html"&gt;Read more...&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="contact"&gt;
+&lt;h2&gt;Contact&lt;/h2&gt;
+&lt;p&gt;Contact &lt;a class="reference external" href="mailto:info&amp;#64;bmdconf.org"&gt;info&amp;#64;bmdconf.org&lt;/a&gt; for more information.&lt;/p&gt;
+&lt;p&gt;We invite you to submit a contribution to the conference and look forward to
+seeing you in Delft!&lt;/p&gt;
+&lt;p&gt;Sincerely,&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Jason K. Moore&lt;/div&gt;
+&lt;div class="line"&gt;Andrew Dressel&lt;/div&gt;
+&lt;div class="line"&gt;Edwin de Vries&lt;/div&gt;
+&lt;div class="line"&gt;Leila Alizadehsaravi&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;BioMechanical Engineering Department&lt;/div&gt;
+&lt;div class="line"&gt;Delft University of Technology&lt;/div&gt;
+&lt;div class="line"&gt;Delft, The Netherlands&lt;/div&gt;
+&lt;/div&gt;
+&lt;a class="reference external image-reference" href="https://www.tudelft.nl/en/3me/about/departments/biomechanical-engineering"&gt;
+&lt;img alt="" src="https://d2k0ddhflgrk1i.cloudfront.net/3mE/BME-met-tekst-large.png" style="height: 100px;" /&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+</content><category term="news"></category></entry><entry><title>Call For Simulator Workshop Abstracts</title><link href="https://2023.bmdconf.org/news/call-for-simulator-workshop-abstracts.html" rel="alternate"></link><published>2023-01-16T10:00:00+01:00</published><updated>2023-01-16T10:00:00+01:00</updated><author><name>Riender Happee</name></author><id>tag:2023.bmdconf.org,2023-01-16:/news/call-for-simulator-workshop-abstracts.html</id><summary type="html">&lt;a class="reference external image-reference" href="https://2023.bmdconf.org"&gt;
+&lt;img alt="" class="align-center" src="https://moorepants.info/mechmotum-bucket/bmd2023-logo-large-640x295.png" style="width: 60%;" /&gt;
+&lt;/a&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Title:&lt;/strong&gt; 2-wheeler simulators – lessons learned in training and research&lt;/div&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Organizers:&lt;/strong&gt; Riender Happee &amp;amp; Linda van der Spaa (TU Delft), Tim Reuscher (RWTH Aachen)&lt;/div&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Location:&lt;/strong&gt; Delft University of Technology&lt;/div&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Date:&lt;/strong&gt; Tuesday 17, October 2023, 13:00-17:00h, prior to the BMD conference&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Several bicycle and motorcycle simulators have been developed and validated …&lt;/p&gt;</summary><content type="html">&lt;a class="reference external image-reference" href="https://2023.bmdconf.org"&gt;
+&lt;img alt="" class="align-center" src="https://moorepants.info/mechmotum-bucket/bmd2023-logo-large-640x295.png" style="width: 60%;" /&gt;
+&lt;/a&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Title:&lt;/strong&gt; 2-wheeler simulators – lessons learned in training and research&lt;/div&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Organizers:&lt;/strong&gt; Riender Happee &amp;amp; Linda van der Spaa (TU Delft), Tim Reuscher (RWTH Aachen)&lt;/div&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Location:&lt;/strong&gt; Delft University of Technology&lt;/div&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Date:&lt;/strong&gt; Tuesday 17, October 2023, 13:00-17:00h, prior to the BMD conference&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Several bicycle and motorcycle simulators have been developed and validated but
+only a few studies actually applied these simulators in training and in
+research. We organize an informal workshop before the BMD conference to discuss
+and align on lessons learned in:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;mechanical motion cuing, visual motion cuing, usage of body motion, vehicle
+modelling, rendering of steering forces, propulsion and braking, the
+resulting behavioral validity in vehicle control, perceived realism and
+motion sickness.&lt;/li&gt;
+&lt;li&gt;traffic interaction, and behavioral validity in interaction&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We invite developers and users to join this informal workshop. Those who wish
+to present can submit an abstract of at most 250 words, preferably with an
+image of the simulator.&lt;/p&gt;
+&lt;p&gt;An agenda will be composed depending on the submissions.&lt;/p&gt;
+&lt;p&gt;We also aim to organize demonstrations of simulators at the actual conference
+as part of the exhibitions.&lt;/p&gt;
+&lt;p&gt;The workshop will focus on lessons learned and unresolved questions.
+Another&amp;nbsp;goal of the workshop is to move towards agreement on quality measures
+for 2-wheeler simulators, and towards unified experimental protocols to assess
+performance.&lt;/p&gt;
+&lt;p&gt;It is fine to also present research results at the actual conference.&lt;/p&gt;
+&lt;p&gt;Abstracts for the workshop can be submitted to Linda van der Spaa by email
+(&lt;a class="reference external" href="mailto:L.F.vanderSpaa&amp;#64;tudelft.nl"&gt;L.F.vanderSpaa&amp;#64;tudelft.nl&lt;/a&gt;) before February 28, 2023.&lt;/p&gt;
+&lt;p&gt;See the &lt;a class="reference external" href="https://2023.bmdconf.org/events.html"&gt;events page&lt;/a&gt; for up-to-date information
+about the workshop.&lt;/p&gt;
+</content><category term="news"></category></entry><entry><title>Call for Abstracts</title><link href="https://2023.bmdconf.org/news/call-for-abstracts.html" rel="alternate"></link><published>2022-12-01T17:00:00+01:00</published><updated>2022-12-01T17:00:00+01:00</updated><author><name>Jason K. Moore</name></author><id>tag:2023.bmdconf.org,2022-12-01:/news/call-for-abstracts.html</id><summary type="html">&lt;a class="reference external image-reference" href="https://2023.bmdconf.org"&gt;
+&lt;img alt="" class="align-center" src="https://moorepants.info/mechmotum-bucket/bmd2023-logo-large-640x295.png" style="width: 60%;" /&gt;
+&lt;/a&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;The call for abstracts for the &lt;a class="reference external" href="https://2023.bmdconf.org"&gt;Bicycle and Motorcycle Dynamics 2023&lt;/a&gt; is now open! Visit the &lt;a class="reference external" href="https://2023.bmdconf.org/submit.html"&gt;submit page&lt;/a&gt; on the conference website for more information
+including our new partnership with &lt;a class="reference external" href="https://www.tudelft.nl/library/actuele-themas/open-publishing"&gt;TU Delft OPEN Publishing&lt;/a&gt; and our new
+formal conference proceedings.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Conference dates: October 18-20, 2023&lt;/li&gt;
+&lt;li&gt;Conference venue: Delft University of …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;a class="reference external image-reference" href="https://2023.bmdconf.org"&gt;
+&lt;img alt="" class="align-center" src="https://moorepants.info/mechmotum-bucket/bmd2023-logo-large-640x295.png" style="width: 60%;" /&gt;
+&lt;/a&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;The call for abstracts for the &lt;a class="reference external" href="https://2023.bmdconf.org"&gt;Bicycle and Motorcycle Dynamics 2023&lt;/a&gt; is now open! Visit the &lt;a class="reference external" href="https://2023.bmdconf.org/submit.html"&gt;submit page&lt;/a&gt; on the conference website for more information
+including our new partnership with &lt;a class="reference external" href="https://www.tudelft.nl/library/actuele-themas/open-publishing"&gt;TU Delft OPEN Publishing&lt;/a&gt; and our new
+formal conference proceedings.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Conference dates: October 18-20, 2023&lt;/li&gt;
+&lt;li&gt;Conference venue: Delft University of Technology, The Netherlands&lt;/li&gt;
+&lt;li&gt;Abstract submission deadline: February 28, 2023 [23:59 UTC]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;BMD 2023 marks the fifth triennial, international three-day symposium on
+bicycle and motorcycle dynamics and control. It aims to bring together leading
+academic and industry professionals, researchers and students in this exciting
+field.&lt;/p&gt;
+&lt;p&gt;The previous four symposia were hosted at Delft University of Technology in the
+Netherlands, Nihon University College of Industrial Technology in Narashino,
+Japan, University of Wisconsin Milwaukee, USA, and University of Padova in
+Italy.&lt;/p&gt;
+&lt;p&gt;This year the conference is coming back to Delft University of Technology to
+celebrate over a decade of advancements in the field.&lt;/p&gt;
+&lt;p&gt;Please forward this invitation to anyone you feel might have relevant research
+to present.&lt;/p&gt;
+&lt;p&gt;Additionally, if you have a contact at an organization that may be interested
+in helping to sponsor our event or if you know anyone with an interesting
+narrow-track vehicle for our rodeo, please let us know. In either case, you can
+send details in an email message to &lt;a class="reference external" href="mailto:sponsorships&amp;#64;bmdconf.org"&gt;sponsorships&amp;#64;bmdconf.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We invite you to submit a contribution to the conference and look forward to
+seeing you in Delft!&lt;/p&gt;
+&lt;p&gt;Sincerely,&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Jason K. Moore&lt;/div&gt;
+&lt;div class="line"&gt;Andrew Dressel&lt;/div&gt;
+&lt;div class="line"&gt;Edwin de Vries&lt;/div&gt;
+&lt;div class="line"&gt;Leila Alizadehsaravi&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;BioMechanical Engineering Department&lt;/div&gt;
+&lt;div class="line"&gt;Delft University of Technology&lt;/div&gt;
+&lt;div class="line"&gt;Delft, The Netherlands&lt;/div&gt;
+&lt;/div&gt;
+&lt;a class="reference external image-reference" href="https://www.tudelft.nl/en/3me/about/departments/biomechanical-engineering"&gt;
+&lt;img alt="" src="https://d2k0ddhflgrk1i.cloudfront.net/3mE/BME-met-tekst-large.png" style="height: 100px;" /&gt;
+&lt;/a&gt;
+</content><category term="news"></category></entry><entry><title>Save the Date!</title><link href="https://2023.bmdconf.org/news/save-the-date.html" rel="alternate"></link><published>2022-09-23T15:42:00+02:00</published><updated>2022-09-23T15:42:00+02:00</updated><author><name>Jason K. Moore</name></author><id>tag:2023.bmdconf.org,2022-09-23:/news/save-the-date.html</id><summary type="html">&lt;img alt="" class="align-center" src="https://moorepants.info/mechmotum-bucket/bmd2023-logo-large-640x295.png" style="width: 60%;" /&gt;
+&lt;p&gt;The fifth triennial &lt;a class="footnote-reference" href="#footnote-1" id="footnote-reference-1"&gt;[*]&lt;/a&gt; international &lt;a class="reference external" href="https://bmdconf.org"&gt;Bicycle and Motorcycle Dynamics Conference&lt;/a&gt; will be held &lt;strong&gt;October 18-20, 2023&lt;/strong&gt; on the &lt;a class="reference external" href="https://www.tudelft.nl"&gt;Delft
+University of Technology&lt;/a&gt; campus in Delft,
+Netherlands. The conference series started in 2010 at TU Delft and it returns
+to the Netherlands to showcase over a decade of advancement in the dynamics …&lt;/p&gt;</summary><content type="html">&lt;img alt="" class="align-center" src="https://moorepants.info/mechmotum-bucket/bmd2023-logo-large-640x295.png" style="width: 60%;" /&gt;
+&lt;p&gt;The fifth triennial &lt;a class="footnote-reference" href="#footnote-1" id="footnote-reference-1"&gt;[*]&lt;/a&gt; international &lt;a class="reference external" href="https://bmdconf.org"&gt;Bicycle and Motorcycle Dynamics Conference&lt;/a&gt; will be held &lt;strong&gt;October 18-20, 2023&lt;/strong&gt; on the &lt;a class="reference external" href="https://www.tudelft.nl"&gt;Delft
+University of Technology&lt;/a&gt; campus in Delft,
+Netherlands. The conference series started in 2010 at TU Delft and it returns
+to the Netherlands to showcase over a decade of advancement in the dynamics and
+control of single track vehicles from around the world. The conference will be
+hosted by the BioMechanical Engineering Department in the &lt;a class="reference external" href="https://www.tudelft.nl/3me"&gt;Faculty of
+Mechanical, Maritime, and Materials Engineering (3mE)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you are interested in being on the local organizing committee or sponsoring
+the event, please send an email to Jason K. Moore (&lt;a class="reference external" href="mailto:j.k.moore&amp;#64;tudelft.nl"&gt;j.k.moore&amp;#64;tudelft.nl&lt;/a&gt;).&lt;/p&gt;
+&lt;table class="docutils footnote" frame="void" id="footnote-1" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label" /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="#footnote-reference-1"&gt;[*]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Due to disruptions from the coronavirus pandemic, we postponed the
+conference from the fall of 2022 to the fall of 2023.&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content><category term="news"></category></entry></feed>
