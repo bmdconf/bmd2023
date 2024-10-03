@@ -5,6 +5,7 @@ Keynote Announcement: Dr. Arend L. Schwab
 :date: 2023-06-21 17:49:00
 :category: news
 :authors: Jason K. Moore
+:thumbnail: https://objects-us-east-1.dream.io/mechmotum/headshot-arend-schwab.jpg
 
 We are happy to announce our second keynote talk for BMD 2023: Dr. Arend L.
 Schwab from `Delft University of Technology`_. Dr. Schwab has contributed to
