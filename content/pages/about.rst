@@ -81,7 +81,7 @@ Important Dates
    * - :strike:`Paper peer review deadline`
      - :strike:`December 1, 2023`
    * - :strike:`Final peer review revision deadline`
-     - :strike:`March 15, 2023`
+     - :strike:`March 15, 2024`
 
 .. raw:: html
 
@@ -111,6 +111,7 @@ Important Dates
          <li>Riender Happee [TU Delft]</li>
          <li>Thomas Habing [TU Delft]</li>
          <li>Tim Reuscher [RWTH Aachen]</li>
+         <li>Yumiko Henneberry [TU Delft]</li>
        </ul>
      </div>
    </div>

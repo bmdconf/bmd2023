@@ -62,7 +62,7 @@ Important Dates
    * - :strike:`Paper peer review deadline`
      - :strike:`December 1, 2023`
    * - :strike:`Final peer review revision deadline`
-     - :strike:`March 15, 2023`
+     - :strike:`March 15, 2024`
 
 Topics
 ======
