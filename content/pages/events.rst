@@ -56,7 +56,7 @@ Tuesday Simulator Workshop
 | **Date:** Tuesday 17, October 2023, 13:00-17:00h, prior to the BMD conference
 |
 
-.. figure:: https://objects-us-east-1.dream.io/mechmotum/lunteren-stassen-bicycle-simulator.png
+.. figure:: https://mechmotum.s3.us-east-005.dream.io/lunteren-stassen-bicycle-simulator.png
    :align: center
    :width: 60%
 
@@ -117,7 +117,7 @@ available for individual purchase in the reserved back area of the
 establishment. **The cost of drinks and food will not be covered by your
 conference registration fee.**
 
-.. figure:: https://objects-us-east-1.dream.io/mechmotum/bierfabriek-delft.jpg
+.. figure:: https://mechmotum.s3.us-east-005.dream.io/bierfabriek-delft.jpg
    :align: center
 
    Bierfabriek Delft
@@ -143,7 +143,7 @@ Wednesday Bike Rodeo and Borrel
 | **Date:** Wednesday 18, October 2023, 18:00-20:00h
 |
 
-.. figure:: https://objects-us-east-1.dream.io/mechmotum/bmd-milwaukee-rodeo.png
+.. figure:: https://mechmotum.s3.us-east-005.dream.io/bmd-milwaukee-rodeo.png
    :align: center
    :width: 80%
 
@@ -179,7 +179,7 @@ We will host a dinner for conference participants the evening of Thursday the
 city center. **This dinner will only be included with your conference
 registration fee if you register by October 5th, 2023.**
 
-.. figure:: https://objects-us-east-1.dream.io/mechmotum/de-waag.jpg
+.. figure:: https://mechmotum.s3.us-east-005.dream.io/de-waag.jpg
    :align: center
    :width: 80%
 

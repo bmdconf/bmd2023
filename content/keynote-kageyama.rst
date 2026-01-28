@@ -5,7 +5,7 @@ Keynote Announcement: Professor Emeritus Ichiro Kageyama
 :date: 2023-06-09 14:39:00
 :category: news
 :authors: Jason K. Moore
-:thumbnail: https://objects-us-east-1.dream.io/mechmotum/headshot-kageyama-ichiro.png
+:thumbnail: https://mechmotum.s3.us-east-005.dream.io/headshot-kageyama-ichiro.png
 
 Keynotes are a new addition to the BMD conference series and we have introduced
 them to highlight the work and wisdom of prominent leaders in our field. We are
@@ -16,7 +16,7 @@ decades.
 
 .. _Nihon University: https://www.nihon-u.ac.jp/en/
 
-.. figure:: https://objects-us-east-1.dream.io/mechmotum/headshot-kageyama-ichiro.png
+.. figure:: https://mechmotum.s3.us-east-005.dream.io/headshot-kageyama-ichiro.png
    :width: 40%
    :align: center
 

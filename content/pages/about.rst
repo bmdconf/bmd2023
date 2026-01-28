@@ -193,7 +193,7 @@ Silver
    :align: center
    :width: 100%
 
-   * - .. image:: https://objects-us-east-1.dream.io/mechmotum/logo-dynamotion.jpg
+   * - .. image:: https://mechmotum.s3.us-east-005.dream.io/logo-dynamotion.jpg
           :width: 100%
           :target: https://www.dynamotion.it/
      -
@@ -206,10 +206,10 @@ Bronze
    :align: center
    :width: 100%
 
-   * - .. image:: https://objects-us-east-1.dream.io/mechmotum/logo-cycle-scientific.jpg
+   * - .. image:: https://mechmotum.s3.us-east-005.dream.io/logo-cycle-scientific.jpg
           :width: 100%
           :target: https://www.linkedin.com/company/cycle-scientific-llc
-     - .. image:: https://objects-us-east-1.dream.io/mechmotum/logo-uwm-bike-lab.jpg
+     - .. image:: https://mechmotum.s3.us-east-005.dream.io/logo-uwm-bike-lab.jpg
           :width: 100%
           :target: https://sites.uwm.edu/bike-motorcycle-lab
 

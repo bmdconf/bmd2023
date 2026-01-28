@@ -6,7 +6,7 @@ All Conference Papers Now Published
 :authors: Jason K. Moore
 :category: news
 :tags: publishing,proceedings,papers
-:thumbnail: https://objects-us-east-1.dream.io/mechmotum/example-published-paper.png
+:thumbnail: https://mechmotum.s3.us-east-005.dream.io/example-published-paper.png
 
 Now that the open peer review process has concluded, we are happy to announce
 that we have accepted and published **28 peer reviewed conference papers**
@@ -31,7 +31,7 @@ there was one round of peer review or two. The peer reviews for each version
 can be accessed in the right panel or the "REVIEWS" tab and the author's
 response to the reviews can be found under the "FILES" tab.
 
-.. figure:: https://objects-us-east-1.dream.io/mechmotum/example-published-paper.png
+.. figure:: https://mechmotum.s3.us-east-005.dream.io/example-published-paper.png
    :align: center
    :width: 90%
    :target: https://doi.org/10.59490/65e0736e3d3955984cdf53a6

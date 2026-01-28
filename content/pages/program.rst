@@ -36,8 +36,8 @@ Below you will find the full conference program with all oral and poster
 presentation times as well as event times or download the PDF version of the
 program booklet:
 
-.. image:: https://objects-us-east-1.dream.io/mechmotum/bmd-2023-program-cover.png
-   :target: https://objects-us-east-1.dream.io/mechmotum/bmd-2023-program.pdf
+.. image:: https://mechmotum.s3.us-east-005.dream.io/bmd-2023-program-cover.png
+   :target: https://mechmotum.s3.us-east-005.dream.io/bmd-2023-program.pdf
    :width: 300px
    :align: center
 
@@ -113,7 +113,7 @@ Program Table
    <td class="s6" dir="ltr">13:20</td>
    <td class="s4" dir="ltr">W01</td>
    <td class="s7" dir="ltr"><a target="_blank" href=
-   "https://objects-us-east-1.dream.io/mechmotum/1_Pless_DESMORI.pdf">The
+   "https://mechmotum.s3.us-east-005.dream.io/1_Pless_DESMORI.pdf">The
    DESMORI Simulator – Review of its First Decade</a></td>
    <td class="s4" dir="ltr">Raphael Pleß, Sebastian Will, Nora Leona
    Merkel</td>
@@ -124,7 +124,7 @@ Program Table
    <td class="s6" dir="ltr">13:35</td>
    <td class="s4" dir="ltr">W02</td>
    <td class="s7" dir="ltr"><a target="_blank" href=
-   "https://objects-us-east-1.dream.io/mechmotum/2_Baeverstrand_Steering_on_Motorcycles.pdf">
+   "https://mechmotum.s3.us-east-005.dream.io/2_Baeverstrand_Steering_on_Motorcycles.pdf">
    Exploring Different Ways of Simulating Steering for
    Motorcycles</a></td>
    <td class="s4" dir="ltr">Christian Bäverstrand</td>
@@ -135,7 +135,7 @@ Program Table
    <td class="s6" dir="ltr">13:50</td>
    <td class="s4" dir="ltr">W03</td>
    <td class="s7" dir="ltr"><a target="_blank" href=
-   "https://objects-us-east-1.dream.io/mechmotum/3_Wildner_Motorcycle_Ergonomics.pdf">
+   "https://mechmotum.s3.us-east-005.dream.io/3_Wildner_Motorcycle_Ergonomics.pdf">
    An Adaptive Motorcycle driving Simulator to Enhance Motorcycle
    Ergonomics</a></td>
    <td class="s4" dir="ltr">Dorothea Wildner, Frank Diermeyer</td>
@@ -171,7 +171,7 @@ Program Table
    <td class="s6" dir="ltr">14:40</td>
    <td class="s4" dir="ltr">W04</td>
    <td class="s7" dir="ltr"><a target="_blank" href=
-   "https://objects-us-east-1.dream.io/mechmotum/4_Huemer_UniBW_Simulator.pdf">
+   "https://mechmotum.s3.us-east-005.dream.io/4_Huemer_UniBW_Simulator.pdf">
    The UniBW M Bike-Riding Simulator for Traffic Safety
    Research</a></td>
    <td class="s4" dir="ltr">Anja Huemer, Thomas Stemmler, Silja
@@ -183,7 +183,7 @@ Program Table
    <td class="s6" dir="ltr">14:55</td>
    <td class="s4" dir="ltr">W05</td>
    <td class="s7" dir="ltr"><a target="_blank" href=
-   "https://objects-us-east-1.dream.io/mechmotum/5_Wang_Design_Recommendations.pdf">
+   "https://mechmotum.s3.us-east-005.dream.io/5_Wang_Design_Recommendations.pdf">
    Design Recommendations for Motion-Based Bicycle Simulators</a></td>
    <td class="s4" dir="ltr">Yu Wang, Sonja Dorfbauer, Linda van der
    Spaa, Florian Michahelles, Philipp Wintersberger</td>
@@ -194,7 +194,7 @@ Program Table
    <td class="s6" dir="ltr">15:10</td>
    <td class="s4" dir="ltr">W06</td>
    <td class="s7" dir="ltr"><a target="_blank" href=
-   "https://objects-us-east-1.dream.io/mechmotum/6_Groene_DLR_Simulator.pdf">
+   "https://mechmotum.s3.us-east-005.dream.io/6_Groene_DLR_Simulator.pdf">
    Experiences with Training and Study Design Mechanisms Utilizing the
    DLR Bike Simulator</a></td>
    <td class="s4" dir="ltr">Kilian Gröne, Donaji Martinez Garcia,
@@ -232,7 +232,7 @@ Program Table
    <td class="s6" dir="ltr">16:00</td>
    <td class="s4" dir="ltr">W07</td>
    <td class="s7" dir="ltr"><a target="_blank" href=
-   "https://objects-us-east-1.dream.io/mechmotum/7_Bayer_Comparing_behavior.pdf">
+   "https://mechmotum.s3.us-east-005.dream.io/7_Bayer_Comparing_behavior.pdf">
    Comparing a Virtual Reality Bicycle Simulator to Real-World Cycling
    Behavior</a></td>
    <td class="s4" dir="ltr">Florian S. Bayer, Avi Aizenman, Anna
@@ -244,7 +244,7 @@ Program Table
    <td class="s6" dir="ltr">16:15</td>
    <td class="s4" dir="ltr">W08</td>
    <td class="s7" dir="ltr"><a target="_blank" href=
-   "https://objects-us-east-1.dream.io/mechmotum/8_Maris_Real_Feel_Rollers.pdf">
+   "https://mechmotum.s3.us-east-005.dream.io/8_Maris_Real_Feel_Rollers.pdf">
    Real-Feel Rollers: A Rollers-Based Bicycle Simulator Requiring
    Realistic Steering Input for Balance Control</a></td>
    <td class="s4" dir="ltr">Eric Maris</td>
@@ -255,7 +255,7 @@ Program Table
    <td class="s6" dir="ltr">16:30</td>
    <td class="s4" dir="ltr">W09</td>
    <td class="s7" dir="ltr"><a target="_blank" href=
-   "https://objects-us-east-1.dream.io/mechmotum/9_vdSpaa_Fytssimulator.pdf">
+   "https://mechmotum.s3.us-east-005.dream.io/9_vdSpaa_Fytssimulator.pdf">
    Development of the Rider-Balanced Fytssimulator</a></td>
    <td class="s4" dir="ltr">Linda van der Spaa, Christina Kohler,
    Bastiaan Sporrel, Arjan Stuiver, Dick de Waard, Heike Vallery,
